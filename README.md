@@ -2,9 +2,11 @@ Project Analysis Summary
 Hypothesis Evaluation
 
 This project aimed to explore the influence of various variables on gross revenue in the context of the film industry. The hypothesis suggesting that budget, company and director variables significantly contribute to high gross revenue has been scrutinized.
+
 Findings
 
 Contrary to the initial hypothesis, the analysis reveals that both the company and director variables reveal only a limited correlation with gross earnings. The data suggests that these factors may not play a significant role in determining the financial success of a movie.
+
 Strong Correlations
 
 Surprisingly, the study identifies other variables with more substantial impacts. Specifically, the number of votes and the budget invested in a movie are found to have the highest correlations with gross earnings. These findings highlight the importance of audience engagement (votes) and financial investment (budget) in predicting and achieving higher revenue in the film industry.
